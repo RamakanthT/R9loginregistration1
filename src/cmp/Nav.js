@@ -1,10 +1,10 @@
 
 import React, { Component } from 'react';
 import {
-    BrowserRouter as Router,
-    Switch,
-    Route,
-    Link
+    BrowserRouter as Link
+    // Router,
+    // Switch,
+    // Route    
   } from "react-router-dom";
   
 class Nav extends Component {

@@ -10,8 +10,8 @@ import Nav from './cmp/Nav';
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
+  // Link
 } from "react-router-dom";
 
 function App() {
